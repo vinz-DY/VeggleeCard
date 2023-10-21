@@ -14,9 +14,7 @@ const Card = () => {
         <h2>secondary text</h2>
         <p>
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Consectetur,
-          quasi, aut autem eos quas exercitationem numquam explicabo earum
-          molestias, rem possimus maxime? Tenetur, omnis odio expedita doloribus
-          explicabo veniam minus.
+          quasi, aut autem eos quas exercitationem numquam explicabo earum.
               </p>
               <button></button>
           </div>
