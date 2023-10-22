@@ -1,6 +1,5 @@
 import { useState } from "react";
 import "./App.css";
-import Card from "./components/card";
 import styled from "styled-components";
 
 const ContainerCards = styled.div`
@@ -146,5 +145,7 @@ function App() {
     </ContainerCards>
   );
 }
+
+
 
 export default App;
